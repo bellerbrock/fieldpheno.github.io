@@ -42,4 +42,8 @@ Our work is made possible by funding from several organizations.
   image3="images/funding/nsf.png"
   link3="https://nsf.gov/"
   tooltip3="National Science Foundation"
+
+  image3="images/funding/cotton-inc.png"
+  link3="https://www.cottoninc.com/"
+  tooltip3="Cotton Incorporated"
 %}
